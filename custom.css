@@ -15,6 +15,12 @@
   font-weight: bold;
 }
 
+a:active {
+  border-bottom: 2px solid #039C7E;
+  font-color: #040607;
+  font-weight: bold;
+}
+
 .jumbotron {
 	background: #039C7E;
 	color: white;
