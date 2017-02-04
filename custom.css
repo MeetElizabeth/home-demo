@@ -1,11 +1,18 @@
-.navbar {
-	margin-bottom: 0;
-}
-
 .navbar-default {
 	background: #fff;
 	border: 0;
   height: 72px;
+  margin-bottom: 0px;
+}
+
+.navbar-default ul li {
+  margin-top: 16px;
+}
+
+.navbar-default ul li a:hover {
+  border-bottom: 2px solid #039C7E;
+  font-color: #040607;
+  font-weight: bold;
 }
 
 .jumbotron {
