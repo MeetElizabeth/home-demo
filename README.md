@@ -1,1 +1,1 @@
-# Neighborly Home page (sandbox)
+# Home page (sandbox)
